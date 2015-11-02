@@ -86,7 +86,7 @@
 						    <input type="text" class="form-control" placeholder="New Password">
 					    </div>
 					    <div class="form-group">
-						    <label for="pwd" style="color:black;">Birthday</label><br>
+						    <label for="pwd" style="color:#141823; font-size:18px; text-weight:none;">Birthday</label><br>
 						    <div class="row">
 						    	<div class="col-md-6" style="padding-right:1px;">
 						    		<select name="" style="height:30px;">
