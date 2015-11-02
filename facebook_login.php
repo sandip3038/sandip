@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Facebook-Login In or Sign</title>
+	<title>Facebook - Log In or Sign</title>
 	<link rel="icon" href="Images/favicon.png" />
 	
 	  <!-- Latest compiled and minified CSS -->
