@@ -1,0 +1,79 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.main-container{
+	width: auto;
+	margin: auto;
+}
+.header{
+	width: 100%;
+	height: 89px;
+	margin-top: 1px;
+	background-color: #4B67A8;
+}
+
+.middle-container{
+	width: 100%;
+	height: 620px;
+	background-color: #EDF0F5;
+}
+.footer{
+	width: 80%;
+	
+	margin: auto;
+}
+.nav li a {
+    position: relative;
+    display: block;
+    padding: 10px 1px;
+}
+h1{
+	color: white;
+	margin-left: 50px;
+	margin-top: 39px;
+}
+
+form{
+	float: right;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 116px;
+}
+
+
+
+.login-button{
+	padding-top: 25px;
+}
+.form-group label{
+	color: white;
+}
+.header-form-input input{
+	height: 90%;
+}
+a {
+	margin-left: 40px;
+	color: #5F99C7;
+	text-decoration: none;
+}
+
+
+.nav li a{
+	margin-left: 20px;
+	padding: 2px 1px;
+}
+
+p.para a{
+	margin-left: 1px;
+}
+.checkbox label{
+	color: #5F99C7;
+}
+.left-content{
+	padding-left: 150px;
+	padding-top: 24px;
+}
+.right-content form{
+	float: left;
+}
