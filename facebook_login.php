@@ -33,7 +33,7 @@
 							</div>
 
 							<div class="form-group">
-							<div class="login-button"><input type="submit" name="submit" value="Log In"></div>
+							<div class="login-button"><input type="submit" name="submit" value="Log In" style="background-color: #5872A7; color:white;"></div>
 							</div><br>
 
 							<div class="checkbox">
@@ -86,7 +86,7 @@
 						    <input type="text" class="form-control" placeholder="New Password">
 					    </div>
 					    <div class="form-group">
-						    <label for="pwd" style="color:#141823; font-size:18px; text-weight:none;">Birthday</label><br>
+						    <label for="pwd" style="color:#141823; font-size:18px; text-weight:normal;">Birthday</label><br>
 						    <div class="row">
 						    	<div class="col-md-6" style="padding-right:1px;">
 						    		<select name="" style="height:30px;">
@@ -119,7 +119,7 @@
 					    </label>
 					    <p class="para">By clicking Sign Up, you agree to our <a href="#">Terms</a> and that you have <br>read our <a href="#">Data Policy</a>, including our <a href="#">Cookie Use.</a></p>
 	                    <div class="form-group">
-							<div class="login-button"><input type="submit" name="submit" value="Create an account" style="width:50%; background-color:#609E4D; color:white; font-weight:bold;" class="btn"></div>
+							<div class="login-button"><input type="submit" name="submit" value="Create an account" style="width:50%; background-color:#609E4D; color:white; font-weight:bold; border-radius:8px;" class="btn"></div>
 						</div>
 
 					</form>
